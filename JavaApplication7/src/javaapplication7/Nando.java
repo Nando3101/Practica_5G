@@ -11,5 +11,6 @@ package javaapplication7;
 public class Nando {
     public static void main(String[] args) {
         System.out.println("Hola Amigos de visual");
+        System.out.println("Bienvenido");
     }
 }
