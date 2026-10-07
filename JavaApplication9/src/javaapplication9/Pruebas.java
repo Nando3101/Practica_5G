@@ -11,8 +11,6 @@ package javaapplication9;
 public class Pruebas {
     public void Nando(){
         //hola muchachos
-        //realicen pruebas para probar
-       
     }
     public void Vladimir(){
     //hello
