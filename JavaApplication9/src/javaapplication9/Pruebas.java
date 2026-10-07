@@ -16,4 +16,8 @@ public class Pruebas {
     public void Mateo(){
         //Prueba 3
     }
+    
+    public void Celeste(){
+        //Como estan
+    }
 }
