@@ -14,4 +14,8 @@ public class Pruebas {
         //realicen pruebas para probar
        
     }
+    public void Vladimir(){
+    //hello
+    //como tu ta?
+    }
 }
