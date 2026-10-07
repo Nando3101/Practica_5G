@@ -18,4 +18,7 @@ public class Pruebas {
     //hello
     //como tu ta?
     }
+    public void Mateo(){
+        //Prueba 3
+    }
 }
