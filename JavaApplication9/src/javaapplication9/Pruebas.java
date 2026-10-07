@@ -12,10 +12,7 @@ public class Pruebas {
     public void Nando(){
         //hola muchachos
     }
-    public void Vladimir(){
-    //hello
-    //como tu ta?
-    }
+    
     public void Mateo(){
         //Prueba 3
     }
